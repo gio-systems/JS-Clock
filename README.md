@@ -1,13 +1,11 @@
 # JS-Clock
 ===================
 
-Lizens: MIT license
-
 Demo: https://devnetcoding.ga/demo/clock
 
-Einfache Benutzung
+Easy use for the clock:
 
-Füge diese Zeilen in deine html Datei ein:
+Add this lines in your html file:
 
 ````
 <link rel="stylesheet" href="https://devnetcoding.ga/clock/css/clock.css">
@@ -21,7 +19,7 @@ Füge diese Zeilen in deine html Datei ein:
 <script src="https://devnetcoding.ga/clock/js/time.js"></script>
 ````
 
-Wenn du auch das Datum möchtest:
+For the date add this:
 
 ````
 <div id="MyDateDisplay" class="date" onload="showDate()"></div>
